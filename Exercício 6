@@ -1,2 +1,0 @@
-for i in range(15, 201):
-    print(f"3 elevado a {i} = {3 ** i}")
