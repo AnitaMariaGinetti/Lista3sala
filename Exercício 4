@@ -1,0 +1,5 @@
+n = int(input("Entre com qualquer número menor que cinquenta: "))
+produto = n
+while produto < 250:
+    print(produto)
+    produto *= 3 
